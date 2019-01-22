@@ -72,7 +72,7 @@ function contains(item, list, cb) {
     console.log(items);
   });
 
-  console.log(contains('gum'));
+  console.log(contains('gum', items));
 
 
 /* STRETCH PROBLEM */
